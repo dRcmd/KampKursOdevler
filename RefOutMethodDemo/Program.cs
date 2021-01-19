@@ -7,7 +7,7 @@ namespace RefOutMethodDemo
         static void Main(string[] args)
         { 
             int sayimiz = 50; 
-            int outSayimiz = 40;
+            int outSayimiz;
             Topla(ref sayimiz,12);
             Topla2(out outSayimiz,12);
 
