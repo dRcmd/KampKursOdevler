@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RefOutMethodDemo/1.0.0": {
+        "runtime": {
+          "RefOutMethodDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RefOutMethodDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
