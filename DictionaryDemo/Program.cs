@@ -8,7 +8,7 @@ namespace DictionaryDemo
         static void Main(string[] args)
         {
             //Kapı açık(true)-kapalı(false) listesi
-            Dictionary<string, bool> doors = new Dictionary<string, bool>();
+            MyDictionary<string, bool> doors = new MyDictionary<string, bool>();
             
             doors.Add("door1",true);
             doors.Add("door2",false);
