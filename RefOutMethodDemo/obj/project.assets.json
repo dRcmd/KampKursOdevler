@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ofaru\\source\\repos\\CSharpCourse\\RefOutMethodDemo\\RefOutMethodDemo.csproj",
+      "projectUniqueName": "C:\\Users\\ofaru\\source\\repos\\KampKursOdevler\\RefOutMethodDemo\\RefOutMethodDemo.csproj",
       "projectName": "RefOutMethodDemo",
-      "projectPath": "C:\\Users\\ofaru\\source\\repos\\CSharpCourse\\RefOutMethodDemo\\RefOutMethodDemo.csproj",
+      "projectPath": "C:\\Users\\ofaru\\source\\repos\\KampKursOdevler\\RefOutMethodDemo\\RefOutMethodDemo.csproj",
       "packagesPath": "C:\\Users\\ofaru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ofaru\\source\\repos\\CSharpCourse\\RefOutMethodDemo\\obj\\",
+      "outputPath": "C:\\Users\\ofaru\\source\\repos\\KampKursOdevler\\RefOutMethodDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ofaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
