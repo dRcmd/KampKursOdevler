@@ -17,10 +17,7 @@ namespace DictionaryDemo
             doors.Add("door5", false);
             doors.Add("door6", true);
 
-            foreach (var door in doors)
-            {
-                Console.WriteLine(door);
-            }
+            
 
         }
     }
