@@ -11,3 +11,16 @@ C:\Users\ofaru\source\repos\CSharpCourse\RefOutMethodDemo\obj\Debug\netcoreapp3.
 C:\Users\ofaru\source\repos\CSharpCourse\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.dll
 C:\Users\ofaru\source\repos\CSharpCourse\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.pdb
 C:\Users\ofaru\source\repos\CSharpCourse\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.genruntimeconfig.cache
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\bin\Debug\netcoreapp3.1\RefOutMethodDemo.exe
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\bin\Debug\netcoreapp3.1\RefOutMethodDemo.deps.json
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\bin\Debug\netcoreapp3.1\RefOutMethodDemo.runtimeconfig.json
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\bin\Debug\netcoreapp3.1\RefOutMethodDemo.runtimeconfig.dev.json
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\bin\Debug\netcoreapp3.1\RefOutMethodDemo.dll
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\bin\Debug\netcoreapp3.1\RefOutMethodDemo.pdb
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.csprojAssemblyReference.cache
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.AssemblyInfoInputs.cache
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.AssemblyInfo.cs
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.dll
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.pdb
+C:\Users\ofaru\Source\Repos\KampKursOdevler\RefOutMethodDemo\obj\Debug\netcoreapp3.1\RefOutMethodDemo.genruntimeconfig.cache
